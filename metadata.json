@@ -1,0 +1,7 @@
+{
+  "name": "SubSmart: Subscription Optimizer",
+  "description": "An AI-powered subscription manager that tracks costs, monitors usage patterns, and provides intelligent advice on which recurring services to keep or cancel.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
